@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/anMGx0u.png" alt="cover" style="width:100%; max-height:180px; object-fit: cover;" />
+<img src="https://i.imgur.com/abc1234.png" alt="cover" style="width:100%;" />
+
 
 
 
