@@ -1,16 +1,33 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/veronikarmy/veronikarmy/main/banner.png" alt="cover" style="width:100%;" />
 
-<!--
-**veronikarmy/veronikarmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Veronika / frontcraft 🌱
 
-Here are some ideas to get you started:
+💖 Front-end beginner with love for design  
+🎨 Exploring code, layouts, and creative styling  
+📚 Currently learning: HTML, CSS, Git, GitHub, JavaScript  
+🚀 Dreaming of becoming a developer with strong visual taste  
+🇸🇰 Living in Slovakia | 🇺🇦 Ukrainian heart  
+☕ Powered by caffeine & late-night coding  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech I use  
+💻 I'm working with:  
+🔸 HTML5  
+🔹 CSS3  
+🔸 Git & GitHub  
+🟡 JavaScript (learning)
+
+---
+
+## 📌 Projects  
+🔹 [Blog Preview Card](https://veronikarmy.github.io/blog-preview-card/) — Frontend Mentor challenge  
+🔹 [Number Generator](https://github.com/veronikarmy/Number-Generator) — Generates random numbers 🎲  
+🔹 [Counter](https://github.com/veronikarmy/my-counter) — Simple interactive counter ⏱️  
+✨ *More coming soon...*
+
+---
+
+## 📫 Reach me  
+📸 Instagram: [@veronikarmy](https://instagram.com/veronikarmy)  
+💬 Discord: `veronika_army`
