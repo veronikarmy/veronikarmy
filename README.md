@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/veronikarmy/veronikarmy/main/banner.png" alt="cover" style="width:100%;" />
+<img src="https://i.imgur.com/anMGx0u.png" alt="cover" style="width:100%;" />
 
 # 👋 Hi, I'm Veronika / frontcraft 🌱
 
