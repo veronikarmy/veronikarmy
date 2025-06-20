@@ -1,4 +1,6 @@
-<img src="https://i.imgur.com/anMGx0u.png" alt="cover" style="width:100%;" />
+<img src="https://i.imgur.com/anMGx0u.png" alt="cover" style="width:100%; max-height:180px; object-fit: cover;" />
+
+
 
 # 👋 Hi, I'm Veronika / frontcraft 🌱
 
