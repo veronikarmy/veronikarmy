@@ -1,4 +1,5 @@
-<img src="https://i.imgur.com/anMGx0u.png" alt="cover" style="width:100%;" />
+<img src="https://i.imgur.com/u5a7Po6.png" alt="cover" style="width:100%;" />
+
  👋 Hi, I'm Veronika / frontcraft 🌱
 
 💖 Front-end beginner with love for design  
