@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/BoFbVvd.png" alt="cover" style="width:100%;" />
+<img src="https://i.imgur.com/7oPXQF2.png" alt="banner" style="width:100%;" />
 
  👋 Hi, I'm Veronika / frontcraft 🌱
 
