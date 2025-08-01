@@ -24,6 +24,8 @@
 🔹 [Blog Preview Card](https://veronikarmy.github.io/blog-preview-card/) — Frontend Mentor challenge  
 🔹 [Number Generator](https://github.com/veronikarmy/Number-Generator) — Generates random numbers 🎲  
 🔹 [Counter](https://github.com/veronikarmy/my-counter) — Simple interactive counter ⏱️  
+🔹[Car Leasing Site](https://veronikarmy.github.io/tutorial-website/contacts.html) — Multi-page layout with tabs, slider and contact form 🚘
+
 ✨ *More coming soon...*
 
 ---
